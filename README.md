@@ -1,108 +1,97 @@
-👋 Hi, I’m Aadhaar Goel
+# 👋 Hi, I’m Aadhaar Goel
 
-🎯 Backend Developer | Java & Spring Boot | Microservices | Codeforces Specialist
+🎯 **Backend Developer | Java & Spring Boot | Microservices | Codeforces Specialist**
 
-I’m a backend-focused Computer Science student who enjoys building production-grade systems, designing scalable architectures, and solving algorithmic problems efficiently. I’m particularly interested in how real-world backend systems are designed, secured, and scaled.
+I’m a backend-focused Computer Science student who enjoys building **production-grade systems**, designing **scalable architectures**, and solving **algorithmic problems efficiently**. I’m particularly interested in how real-world backend systems are designed, secured, and scaled.
 
-🚀 About Me
+---
 
-🎓 B.S. Data Science & Artificial Intelligence — IIT Guwahati (CGPA: 8.3/10)
+## 🚀 About Me
 
-💡 Strong focus on Backend Engineering, DSA, and System Design
+- 🎓 **B.S. Data Science & Artificial Intelligence** — *IIT Guwahati* (CGPA: 8.3/10)  
+- 💡 Strong focus on **Backend Engineering, DSA, and System Design**
+- 🧠 **Codeforces Specialist** (Max Rating: **1409**, 1000+ problems solved)
+- 🌱 Currently exploring **microservices, distributed systems, and event-driven architecture**
+- 📍 India
 
-🧠 Codeforces Specialist (Max Rating: 1409, 1000+ problems solved)
+---
 
-🌱 Currently exploring microservices, distributed systems, and event-driven architecture
+## 🛠️ Tech Stack
 
-📍 India
+### Languages & CS Fundamentals
+- **Java**, C++, SQL  
+- Data Structures & Algorithms, Operating Systems, Computer Networks
 
-🛠️ Tech Stack
-Languages & CS Fundamentals
+### Backend & Architecture
+- **Spring Boot**, Spring Security, Hibernate  
+- REST APIs, JWT Authentication  
+- **Microservices Architecture**, Apache Kafka  
+- gRPC (basic understanding)
 
-Java, C++, SQL
+### Databases & Caching
+- MySQL, PostgreSQL, MongoDB  
+- Redis (Basic)
 
-Data Structures & Algorithms, Operating Systems, Computer Networks
+### DevOps & Tools
+- Docker, Docker Compose  
+- Git, GitHub  
 
-Backend & Architecture
+---
 
-Spring Boot, Spring Security, Hibernate
+## 💼 Experience
 
-REST APIs, JWT Authentication
+### **Physics Wallah Institute of Innovation**  
+**Placement Coordinator Intern** *(Apr 2024 – Oct 2024)*
 
-Microservices Architecture, Apache Kafka
+- Coordinated institute-level events for **300+ students**
+- Supported placement initiatives and researched student upskilling programs
+- Worked closely with multiple teams to improve outreach and execution
 
-gRPC (basic understanding)
+### **Freelance Tutor** *(Jul 2023 – Oct 2023)*
 
-Databases & Caching
+- Taught mathematics and introductory programming via online sessions
+- Designed structured lessons to improve conceptual understanding
 
-MySQL, PostgreSQL, MongoDB
+---
 
-Redis (Basic)
+## 🧩 Projects
 
-DevOps & Tools
+### 💳 **PayPal-like Digital Payments Platform**
+**Tech:** Java, Spring Boot, Spring Security, JWT, Apache Kafka, REST, gRPC, Docker, MySQL
 
-Docker, Docker Compose
+- Built a **production-grade microservices-based payment system** with **7+ independent services**
+- Designed a **secure API Gateway** with JWT authentication and role-based authorization
+- Implemented **event-driven architecture using Apache Kafka** for asynchronous transaction processing
+- Developed **Transaction and Wallet services** supporting concurrent transfers and atomic balance updates
+- Containerized and orchestrated services using **Docker and Docker Compose**
 
-Git, GitHub
+---
 
-💼 Experience
-Physics Wallah Institute of Innovation
+### 🔐 **Authentication & Authorization System**
+**Tech:** Spring Boot, Spring Security, JWT, OAuth2, React, MySQL
 
-Placement Coordinator Intern (Apr 2024 – Oct 2024)
+- Built a **production-grade authentication system** with email/password and **OAuth2 (Google, GitHub)**
+- Implemented **JWT access & refresh tokens** with secure HTTP-only cookie storage
+- Designed **automatic token refresh flow** for seamless user sessions
+- Configured CORS, validation, and global exception handling following security best practices
+- Integrated a React frontend with protected routes and secure API communication
 
-Coordinated institute-level events for 300+ students
+---
 
-Supported placement initiatives and researched student upskilling programs
+## 🏆 Achievements
 
-Worked closely with multiple teams to improve outreach and execution
+- 🥇 **1st Prize – PW Hackathon** (End-to-end application with virtual IoT prototype)
+- ⭐ **Codeforces Specialist** (Max Rating: 1409)
+- 🧠 Solved **1000+ DSA problems** across platforms
 
-Freelance Tutor (Jul 2023 – Oct 2023)
+---
 
-Taught mathematics and introductory programming via online sessions
+## 📫 Connect With Me
 
-Designed structured lessons to improve conceptual understanding
+- 💼 LinkedIn: https://www.linkedin.com/in/aadhaar-goel  
+- 💻 GitHub: https://github.com/goel-aadhaar  
+- 📧 Email: goel.aadhaar@outlook.com  
 
-🧩 Projects
-💳 PayPal-like Digital Payments Platform
+---
 
-Tech: Java, Spring Boot, Spring Security, JWT, Apache Kafka, REST, gRPC, Docker, MySQL
-
-Built a production-grade microservices-based payment system with 7+ independent services (User, Wallet, Transaction, Fraud, Notification, Rewards, API Gateway)
-
-Designed a secure API Gateway with JWT authentication and role-based authorization
-
-Implemented event-driven architecture using Apache Kafka for asynchronous transaction processing
-
-Developed Transaction and Wallet services supporting concurrent transfers, atomic balance updates, and multi-currency management
-
-Containerized and orchestrated services using Docker and Docker Compose
-
-🔐 Authentication & Authorization System
-
-Tech: Spring Boot, Spring Security, JWT, OAuth2, React, MySQL
-
-Built a production-grade authentication system with email/password login and OAuth2 (Google, GitHub)
-
-Implemented JWT access & refresh tokens, storing refresh tokens in HTTP-only cookies
-
-Designed automatic token refresh flow for seamless user sessions
-
-Configured CORS, validation, and global exception handling following security best practices
-
-Integrated a React frontend with protected routes and secure API communication
-
-🏆 Achievements
-
-🥇 1st Prize – PW Hackathon (End-to-end application with virtual IoT prototype)
-
-⭐ Codeforces Specialist (Max Rating: 1409)
-
-🧠 Solved 1000+ DSA problems across platforms
-
-📫 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/aadhaar-goel
-
-💻 GitHub: https://github.com/goel-aadhaar
-
-📧 Email: goel.aadhaar@outlook.com
+✨ *Always curious about how large-scale backend systems are built, secured, and scaled.*
