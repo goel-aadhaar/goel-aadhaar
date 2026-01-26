@@ -1,92 +1,108 @@
-# 👋 Hi, I'm Aadhaar Goel
+👋 Hi, I’m Aadhaar Goel
 
-🎯 **Software Developer | Backend & Full-Stack Enthusiast | Codeforces Specialist**
+🎯 Backend Developer | Java & Spring Boot | Microservices | Codeforces Specialist
 
-I’m a highly driven Computer Science student with strong foundations in **Data Structures & Algorithms**, **backend engineering**, and **scalable system design**. I enjoy building production-ready applications and solving complex problems efficiently.
+I’m a backend-focused Computer Science student who enjoys building production-grade systems, designing scalable architectures, and solving algorithmic problems efficiently. I’m particularly interested in how real-world backend systems are designed, secured, and scaled.
 
----
+🚀 About Me
 
-## 🚀 About Me
+🎓 B.S. Data Science & Artificial Intelligence — IIT Guwahati (CGPA: 8.3/10)
 
-* 🎓 **B.Sc. (Hons.) Data Science & Artificial Intelligence** — *IIT Guwahati (Online)*
-* 💡 Strong focus on **DSA, backend systems, and clean architecture**
-* 🧠 Codeforces **Specialist (Max: 1409)**
-* 🌱 Currently exploring **scalable backend systems & system design**
-* 📍 Bengaluru, India
+💡 Strong focus on Backend Engineering, DSA, and System Design
 
----
+🧠 Codeforces Specialist (Max Rating: 1409, 1000+ problems solved)
 
-## 🛠️ Tech Stack
+🌱 Currently exploring microservices, distributed systems, and event-driven architecture
 
-**Languages**
+📍 India
 
-* C++ | Java | Python | JavaScript
+🛠️ Tech Stack
+Languages & CS Fundamentals
 
-**Backend & Full-Stack**
+Java, C++, SQL
 
-* Node.js | Express.js | REST APIs | JWT Authentication
+Data Structures & Algorithms, Operating Systems, Computer Networks
 
-**Databases**
+Backend & Architecture
 
-* MongoDB | MySQL
+Spring Boot, Spring Security, Hibernate
 
-**Tools & Platforms**
+REST APIs, JWT Authentication
 
-* Git | GitHub | Vercel | Render | Cloudinary
+Microservices Architecture, Apache Kafka
 
----
+gRPC (basic understanding)
 
-## 💼 Experience
+Databases & Caching
 
-### **Physics Wallah Institute of Innovation**
+MySQL, PostgreSQL, MongoDB
 
-**Placement & Outreach Cell** *(Apr 2024 – Oct 2024)*
+Redis (Basic)
 
-* Managed and organized college-level events ensuring smooth execution
-* Conducted research on student enhancement initiatives including foreign internships
-* Collaborated with multiple stakeholders to improve outreach and placement efforts
+DevOps & Tools
 
-### **Freelance Tutor** *(Jul 2023 – Oct 2023)*
+Docker, Docker Compose
 
-* Taught programming fundamentals and mathematics to school students
-* Designed structured lesson plans to improve learning outcomes
+Git, GitHub
 
----
+💼 Experience
+Physics Wallah Institute of Innovation
 
-## 🧩 Projects
+Placement Coordinator Intern (Apr 2024 – Oct 2024)
 
-### 👟 **Shoe E‑Commerce Platform** *(MERN Stack)*
+Coordinated institute-level events for 300+ students
 
-**Tech:** React, Node.js, Express, MongoDB, Cloudinary, JWT
+Supported placement initiatives and researched student upskilling programs
 
-* Built a full‑stack e‑commerce platform with authentication, cart, orders, payments, and admin dashboard
-* Implemented secure REST APIs with role‑based access control
-* Integrated email automation for order confirmations
-* Deployed frontend on **Vercel** and backend on **Render** with CI/CD
+Worked closely with multiple teams to improve outreach and execution
 
-### 👾 **Space Invaders Game**
+Freelance Tutor (Jul 2023 – Oct 2023)
 
-**Tech:** HTML, CSS, JavaScript, Canvas API
+Taught mathematics and introductory programming via online sessions
 
-* Developed a browser‑based Space Invaders game
-* Implemented enemy waves, collision detection, scoring, and smooth gameplay
+Designed structured lessons to improve conceptual understanding
 
----
+🧩 Projects
+💳 PayPal-like Digital Payments Platform
 
-## 🏆 Achievements
+Tech: Java, Spring Boot, Spring Security, JWT, Apache Kafka, REST, gRPC, Docker, MySQL
 
-* 🥇 **1st Prize – PW Hackathon** (D2C Brand Business Model)
-* ⭐ **Codeforces Specialist**
-* 🌍 **IELTS – 7 Bands**
+Built a production-grade microservices-based payment system with 7+ independent services (User, Wallet, Transaction, Fraud, Notification, Rewards, API Gateway)
 
----
+Designed a secure API Gateway with JWT authentication and role-based authorization
 
-## 📫 Connect With Me
+Implemented event-driven architecture using Apache Kafka for asynchronous transaction processing
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/aadhaar-goel)
-* 💻 [GitHub](https://github.com/goel-aadhaar)
-* 📧 Email: [goel.aadhaar@outlook.com](mailto:goel.aadhaar@outlook.com)
+Developed Transaction and Wallet services supporting concurrent transfers, atomic balance updates, and multi-currency management
 
----
+Containerized and orchestrated services using Docker and Docker Compose
 
-✨ *Always eager to learn, build, and contribute to impactful software.*
+🔐 Authentication & Authorization System
+
+Tech: Spring Boot, Spring Security, JWT, OAuth2, React, MySQL
+
+Built a production-grade authentication system with email/password login and OAuth2 (Google, GitHub)
+
+Implemented JWT access & refresh tokens, storing refresh tokens in HTTP-only cookies
+
+Designed automatic token refresh flow for seamless user sessions
+
+Configured CORS, validation, and global exception handling following security best practices
+
+Integrated a React frontend with protected routes and secure API communication
+
+🏆 Achievements
+
+🥇 1st Prize – PW Hackathon (End-to-end application with virtual IoT prototype)
+
+⭐ Codeforces Specialist (Max Rating: 1409)
+
+🧠 Solved 1000+ DSA problems across platforms
+
+📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/aadhaar-goel
+
+💻 GitHub: https://github.com/goel-aadhaar
+
+📧 Email: goel.aadhaar@outlook.com
