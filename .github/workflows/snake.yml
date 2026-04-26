@@ -5,22 +5,25 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-# ✅ THIS IS THE ONLY REQUIRED FIX
 permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: goel-aadhaar
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      # ✅ NEW DEPLOY METHOD (WORKS 100%)
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
