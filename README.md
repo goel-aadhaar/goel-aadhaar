@@ -1,118 +1,116 @@
-# Hi, I’m Aadhaar 👋
+# 👋 Hi, I’m Aadhaar
 
-📍 **Delhi** | 🚀 **Building web, apps, APIs & scalable systems** | 💻 **Competitive Programmer**
-
-![Java Version](https://img.shields.io/badge/java-%3E%3D8-blue.svg)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+🚀 Backend Engineer | 🧠 Competitive Programmer | ⚙️ System Design  
+📍 Delhi | 🎓 IIT Guwahati  
 
 ---
 
-## Who Am I
+## ⚡ Tech Stack
 
-- 🎓 3rd Year **B.Sc (Hons.)** Student at **IIT Guwahati**
-- 🛠 Backend Developer (**Spring Boot & Node.js**)
-- 💻 Competitive Programmer
-- 🤖 AIML Enthusiast
-
----
-
-## What I Enjoy
-
-- Solving **Competitive Programming** problems
-- Learning about **scalable backends**, **distributed systems**, and **microservices architecture**
-- Exploring new technologies and system design patterns
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,python,cpp,mongodb,postgres,redis,docker,kafka,linux,git" />
+</p>
 
 ---
 
-## What I Know
+## 📊 GitHub Analytics
 
-### Languages
-- JavaScript, Java, C++, Python, SQL
-
-### Frontend & Backend
-- MERN, Spring Boot, Next.js
-- MySQL, PostgreSQL, MongoDB, Redis
-- Apache Kafka
-
-### CS Fundamentals
-- Data Structures & Algorithms
-- Operating Systems
-- Computer Networks
-- DBMS
-
-### DevOps & Tools
-- Docker
-- Git & GitHub
-- Jenkins
-- Linux & CLI
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=goel-aadhaar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goel-aadhaar&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
-## Experience
+## 📈 Contribution Graph
 
-### Physics Wallah Institute of Innovation  
-**Placement Coordinator Intern** *(Apr 2024 – Oct 2024)*
-
-- Coordinated institute-level events for **300+ students**
-- Supported placement initiatives and researched student upskilling programs
-- Collaborated with multiple teams to improve outreach and execution
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goel-aadhaar&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## Projects
+## 🧑‍💻 Most Used Languages
 
-### PayPal-like Digital Payments Platform
-**Tech:** Java, Spring Boot, Spring Security, JWT, Apache Kafka, REST, gRPC, Docker, MySQL
-
-- Built a **production-grade microservices-based payment system** with **7+ independent services**
-- Designed a secure **API Gateway** with JWT authentication and role-based authorization
-- Implemented **event-driven architecture using Apache Kafka** for asynchronous transaction processing
-- Developed **Transaction and Wallet services** supporting concurrent transfers and atomic balance updates
-- Containerized and orchestrated services using **Docker & Docker Compose**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goel-aadhaar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### Authentication & Authorization System
-**Tech:** Spring Boot, Spring Security, JWT, OAuth2, React, MySQL
+## 🏆 GitHub Trophies
 
-- Built a production-grade authentication system with **email/password + OAuth2 (Google, GitHub)**
-- Implemented **JWT access & refresh tokens** with secure HTTP-only cookies
-- Designed automatic token refresh flow for seamless sessions
-- Configured CORS, validation, and global exception handling following security best practices
-- Integrated a React frontend with protected routes and secure API communication
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=goel-aadhaar&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## Ratings
+## 🔥 Contribution Snake
 
-1. **Codeforces:** 1409 (Max) — https://codeforces.com/profile/goel_aadhaar  
-2. **LeetCode:** 1778 (Max) — https://leetcode.com/u/goel_aadhaar/  
-3. **CodeChef:** 1670 (Max) — https://www.codechef.com/users/goel_aadhaar  
-
----
-
-## Achievements
-
-- 🥇 **1st Prize – PW Hackathon** (End-to-end application with virtual IoT prototype)
-- Solved **1000+ DSA problems** across platforms
+<p align="center">
+  <img src="https://raw.githubusercontent.com/goel-aadhaar/goel-aadhaar/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## Connect With Me
+## 🧠 Competitive Programming
 
-- LinkedIn: https://www.linkedin.com/in/aadhaar-goel  
-- GitHub: https://github.com/goel-aadhaar  
-- Email: goel.aadhaar@outlook.com  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/goel_aadhaar?theme=dark&font=Nunito&ext=contest" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=goel_aadhaar&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/goel_aadhaar">
+    <img src="https://img.shields.io/badge/CodeChef-1670-brown"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Codeforces:</b> 1409 &nbsp; | &nbsp;
+  <b>LeetCode:</b> 1778 &nbsp; | &nbsp;
+  <b>CodeChef:</b> 1670
+</p>
 
 ---
 
-*Always curious about how large-scale backend systems are built, secured, and scaled.*
+## 🚀 Featured Project
+
+### 💳 Payment System (Microservices)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-7+-blue"/>
+  <img src="https://img.shields.io/badge/Kafka-Event--Driven-black"/>
+  <img src="https://img.shields.io/badge/Auth-JWT-green"/>
+  <img src="https://img.shields.io/badge/Dockerized-Yes-blue"/>
+</p>
+
+- ⚙️ 7+ services architecture  
+- 🔐 API Gateway + JWT auth  
+- 📡 Kafka async processing  
+- 🐳 Fully containerized  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 1st Prize – PW Hackathon  
+- 🧠 1000+ DSA problems solved  
+
+---
+
+## 📬 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aadhaar-goel"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/></a>
+  <a href="mailto:goel.aadhaar@outlook.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail"/></a>
+  <a href="https://github.com/goel-aadhaar"><img src="https://img.shields.io/badge/GitHub-black?logo=github"/></a>
+</p>
+
+---
+
+⭐ *Focused on building scalable backend systems*
