@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-# ✅ ADD THIS BLOCK (VERY IMPORTANT)
+# ✅ THIS IS THE ONLY REQUIRED FIX
 permissions:
   contents: write
 
@@ -22,6 +22,5 @@ jobs:
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}   # ✅ ADD THIS
           target_branch: output
           build_dir: dist
