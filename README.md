@@ -1,116 +1,99 @@
-# 👋 Hi, I’m Aadhaar
+# 👋 Hi, I’m Aadhaar  
 
-🚀 Backend Engineer | 🧠 Competitive Programmer | ⚙️ System Design  
-📍 Delhi | 🎓 IIT Guwahati  
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,python,cpp,mongodb,postgres,redis,docker,kafka,linux,git" />
-</p>
+🚀 Backend Engineer @ Physics Wallah  
+🧠 Competitive Programmer | ⚙️ System Design Enthusiast  
+🎓 IIT Guwahati | 📍 Delhi  
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ What I Do  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goel-aadhaar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goel-aadhaar&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+- Build **scalable backend systems & APIs**  
+- Design **microservices & event-driven architectures**  
+- Optimize systems for **performance, reliability, and scale**  
 
 ---
 
-## 📈 Contribution Graph
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goel-aadhaar&theme=tokyo-night&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,python,cpp,mongodb,postgres,redis,docker,kafka,linux,git" />
 </p>
 
 ---
 
-## 🧑‍💻 Most Used Languages
+## 🚀 Featured Project  
+
+### 💳 Distributed Payment System (Microservices Architecture)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goel-aadhaar&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Architecture-Microservices-blue"/>
+  <img src="https://img.shields.io/badge/Communication-Kafka-black"/>
+  <img src="https://img.shields.io/badge/Auth-JWT-green"/>
+  <img src="https://img.shields.io/badge/Deployment-Docker-blue"/>
+</p>
+
+### 🧠 System Design Highlights  
+
+- ⚙️ Designed **7+ independent services** (Auth, Payment, Ledger, Notification)  
+- 📡 Implemented **event-driven communication using Kafka**  
+- 🔐 Centralized **API Gateway with JWT-based authentication**  
+- 🗄️ Used **PostgreSQL + Redis** for persistence & caching  
+- 🐳 Fully containerized using Docker  
+
+### 📈 Impact  
+
+- ⚡ Reduced request latency by ~35% using caching  
+- 📊 Improved scalability with async processing  
+- 🔄 Enabled fault isolation across services  
+
+---
+
+## 📊 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goel-aadhaar&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧠 Competitive Programming  
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=goel-aadhaar&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://leetcard.jacoblin.cool/goel_aadhaar?theme=dark&font=Nunito&ext=contest" height="170"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=goel_aadhaar&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <b>LeetCode:</b> 1778 &nbsp; | &nbsp;
+  <b>Codeforces:</b> 1409 &nbsp; | &nbsp;
+  <b>CodeChef:</b> 1670  
 </p>
 
 ---
 
-## 🔥 Contribution Snake
+## 🏆 Achievements  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/goel-aadhaar/goel-aadhaar/output/github-contribution-grid-snake.svg" />
-</p>
+- 🥇 1st Prize – PW Hackathon  
+- 🧠 Solved 1000+ DSA problems  
+- ⚡ Backend Developer Intern @ Physics Wallah  
 
 ---
 
-## 🧠 Competitive Programming
+## 📬 Connect  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/goel_aadhaar?theme=dark&font=Nunito&ext=contest" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=goel_aadhaar&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <a href="https://www.codechef.com/users/goel_aadhaar">
-    <img src="https://img.shields.io/badge/CodeChef-1670-brown"/>
+  <a href="https://www.linkedin.com/in/aadhaar-goel">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
+  </a>
+  <a href="mailto:goel.aadhaar@outlook.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail"/>
+  </a>
+  <a href="https://github.com/goel-aadhaar">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
   </a>
 </p>
 
-<p align="center">
-  <b>Codeforces:</b> 1409 &nbsp; | &nbsp;
-  <b>LeetCode:</b> 1778 &nbsp; | &nbsp;
-  <b>CodeChef:</b> 1670
-</p>
-
 ---
 
-## 🚀 Featured Project
-
-### 💳 Payment System (Microservices)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microservices-7+-blue"/>
-  <img src="https://img.shields.io/badge/Kafka-Event--Driven-black"/>
-  <img src="https://img.shields.io/badge/Auth-JWT-green"/>
-  <img src="https://img.shields.io/badge/Dockerized-Yes-blue"/>
-</p>
-
-- ⚙️ 7+ services architecture  
-- 🔐 API Gateway + JWT auth  
-- 📡 Kafka async processing  
-- 🐳 Fully containerized  
-
----
-
-## 🏆 Achievements
-
-- 🥇 1st Prize – PW Hackathon  
-- 🧠 1000+ DSA problems solved  
-
----
-
-## 📬 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aadhaar-goel"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/></a>
-  <a href="mailto:goel.aadhaar@outlook.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail"/></a>
-  <a href="https://github.com/goel-aadhaar"><img src="https://img.shields.io/badge/GitHub-black?logo=github"/></a>
-</p>
-
----
-
-⭐ *Focused on building scalable backend systems*
+⭐ *Focused on building high-scale backend systems and solving complex engineering problems*
