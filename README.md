@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Aadhaar  
 
-🚀 Backend Engineer @ Physics Wallah  
-🧠 Competitive Programmer | ⚙️ System Design Enthusiast  
-🎓 IIT Guwahati | 📍 Delhi  
+- Backend Engineer @ Physics Wallah  
+- Competitive Programmer | ⚙️ System Design Enthusiast  
+- IIT Guwahati | 📍 Delhi  
 
 ---
 
